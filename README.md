@@ -4,4 +4,6 @@
 **Class: Algorithmization and programming**
 
 **Recreation of Pac-Man (ATARI 2600) with Pygame**
-![](https://github.com/kutscheraa/PIZZERIA-WEB-APP/blob/main/preview.png)
+
+Controls: Arrow keys
+![](image_2024-02-23_224949308.png)
